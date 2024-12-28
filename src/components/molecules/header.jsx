@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <>
       <nav className="flex justify-between items-center p-4">
-        <Link>TalentTrove</Link>
+        <Link variant>TalentTrove</Link>
         <Button variant="outline">Login</Button>
       </nav>
     </>
