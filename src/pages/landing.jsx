@@ -24,12 +24,12 @@ const LandingPage = () => {
       <div className="text-center py-4 gap-4 text-white">
         <h2 className="py-2 text-xl">Start Your Journey Today!</h2>
         <div className="flex gap-4 justify-center py-2">
-          <Link to="/jobs">
+          <Link to="/joblistings">
             <Button variant="yellow" size="xlg">
               Find Jobs
             </Button>
           </Link>
-          <Link to="/post-jobs">
+          <Link to="/post-opening">
             <Button variant="purple" size="xlg">
               Post Jobs
             </Button>
