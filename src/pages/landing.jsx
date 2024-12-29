@@ -1,5 +1,12 @@
-import { Button } from "@/components/atoms/button";
 import React from "react";
+import { Button } from "@/components/atoms/button";
+import {
+  Card,
+  CardContent,
+  CardHeader,
+  CardTitle,
+} from "@/components/atoms/card";
+import { CompanyCarousel } from "@/components/organisms/company-carousel";
 import { Link } from "react-router-dom";
 
 const LandingPage = () => {
@@ -40,6 +47,32 @@ const LandingPage = () => {
           make it happen.
         </p>
       </div>
+
+      {/* carousel */}
+      <CompanyCarousel />
+
+      {/* Cards */}
+      <section className="grid grid-cols-1 md:grid-cols-2 gap-4 mx-8">
+        <Card>
+          <CardHeader>
+            <CardTitle>For Job Seekers</CardTitle>
+          </CardHeader>
+          <CardContent>
+            Search and apply for jobs, track applications and more.
+          </CardContent>
+        </Card>
+        <Card>
+          <CardHeader>
+            <CardTitle>For Employers</CardTitle>
+          </CardHeader>
+          <CardContent>
+            Post jobs, manage applications and find the best talent.
+          </CardContent>
+        </Card>
+      </section>
+
+      {/* accordion faqs */}
+
       <div className="landing-page">
         <div className="landing-page-content">
           <section className="feature-section">

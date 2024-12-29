@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What is TalentTrove?",
+    "answer": "TalentTrove is a Job Portal App that allows companies to post jobs and seekers to apply for jobs."
+  },
+  {
+    "question": "How do I apply for a job?",
+    "answer": "To apply for a job, you must first create an account. Once you have an account, you can search for jobs and apply for them."
+  },
+  {
+    "question": "Can I save jobs and apply later?",
+    "answer": "Yes, you can save jobs and apply later. To save jobs, you must first create an account. Once you have an account, you can save jobs and apply later."
+  },
+  {
+    "question": "How do I post a job?",
+    "answer": "To post a job, you must first create an account. Once you have an account, you can post jobs."
+  },
+  {
+    "question": "How do I delete a job?",
+    "answer": "To delete a job, you must first create an account. Once you have an account, you can delete jobs."
+  },
+  {
+    "question": "How do I update a job?",
+    "answer": "To update a job, you must first create an account. Once you have an account, you can update jobs."
+  },
+  {
+    "question": "How do I search for jobs?",
+    "answer": "To search for jobs, you must first create an account. Once you have an account, you can search for jobs."
+  },
+  {
+    "question": "How do I view my applications?",
+    "answer": "To view your applications, you must first create an account. Once you have an account, you can view your applications."
+  },
+  {
+    "question": "How do I view my job posts?",
+    "answer": "To view your job posts, you must first create an account. Once you have an account, you can view your job posts."
+  },
+  {
+    "question": "How do I view my profile?",
+    "answer": "To view your profile, you must first create an account. Once you have an account, you can view your profile."
+  },
+  {
+    "question": "How do I update my profile?",
+    "answer": "To update your profile, you must first create an account. Once you have an account, you can update your profile."
+  }
+]
