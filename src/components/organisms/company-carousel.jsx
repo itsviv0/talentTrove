@@ -2,11 +2,13 @@ import React from "react";
 import { Carousel, CarouselContent, CarouselItem } from "./carousel";
 import { Card, CardContent } from "../atoms/card";
 import companyCarousel from "../data/companyCarousel.json";
+import Autoplay from "embla-carousel-autoplay";
 
 const CompanyCarousel = () => {
   return (
     <Carousel
-      opts={{ loop: true, autoplay: true, autoplayTimeout: 10 }}
+      plugins={[Autoplay({ delay: 2000 })]}
+      opts={{ loop: true, autoplayTimeout: 10 }}
       className="w-full px-4 py-8"
     >
       <CarouselContent className="flex gap-4 sm:gap-10 items-center">
