@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Apple",
+    "path": "/public/images/companies/appul.svg",
+    "id": 1
+  },
+  {
+    "name": "Google",
+    "path": "/public/images/companies/google.svg",
+    "id": 2
+  },
+  {
+    "name": "Mercedes Benz",
+    "path": "/public/images/companies/benz.svg",
+    "id": 3
+  },
+  {
+    "name": "BMW",
+    "path": "/public/images/companies/bmw.svg",
+    "id": 4
+  },
+  {
+    "name": "Creative Cloud",
+    "path": "/public/images/companies/cc.svg",
+    "id": 5
+  },
+  {
+    "name": "Earnst & Young",
+    "path": "/public/images/companies/ey.svg",
+    "id": 6
+  },
+  {
+    "name": "LinkedIn",
+    "path": "/public/images/companies/linkedin.svg",
+    "id": 7
+  },
+  {
+    "name": "McDonalds",
+    "path": "/public/images/companies/mcd.svg",
+    "id": 8
+  },
+  {
+    "name": "Salesforce",
+    "path": "/public/images/companies/salesforce.svg",
+    "id": 10
+  },
+  {
+    "name": "Snapchat",
+    "path": "/public/images/companies/snapchat.svg",
+    "id": 11
+  },
+  {
+    "name": "Visa",
+    "path": "/public/images/companies/visa.svg",
+    "id": 12
+  },
+  {
+    "name": "X",
+    "path": "/public/images/companies/X.svg",
+    "id": 9
+  }
+]
