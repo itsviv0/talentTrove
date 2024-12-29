@@ -1,4 +1,5 @@
 import { Button } from "@/components/atoms/button";
+import { CompanyCarousel } from "@/components/organisms/company-carousel";
 import React from "react";
 import { Link } from "react-router-dom";
 
@@ -40,6 +41,10 @@ const LandingPage = () => {
           make it happen.
         </p>
       </div>
+
+      {/* carousel */}
+      <CompanyCarousel />
+
       <div className="landing-page">
         <div className="landing-page-content">
           <section className="feature-section">
