@@ -1,19 +1,21 @@
-# talentTrove 📝
+# TalentTrove 📝
 
 ### Overview
 
-Powerful tool for users to record and organize their thoughts, ideas, and daily experiences.
-<br> With an intuitive interface and customizable features, it aims to enhance productivity and self-reflection.
+TalentTrove is a powerful job platform that connects job seekers with employers. With an intuitive interface and customizable features, it aims to enhance the job search and recruitment process.
 
 ---
 
 ### Features
 
-- Create Entries: Add journal entries with titles, content, and timestamps.
-- Organize Entries: Categorize entries using tags or labels for easy filtering.
-- Search Functionality: Quickly find entries by keywords or dates.
-- Customization: Personalize the application with themes and layouts.
-- Data Security: All entries are securely stored to ensure user privacy.
+- **Job Listings**: Browse and apply for a wide range of job opportunities.
+- **Post Jobs**: Employers can post job openings and manage applications.
+- **Save Jobs**: Save job listings to apply later.
+- **Profile Management**: Create and update your profile to attract employers.
+- **Application Tracking**: Track the status of your job applications.
+- **Company Profiles**: Explore company profiles and their job openings.
+- **Search Functionality**: Quickly find jobs by keywords or categories.
+- **Customization**: Personalize the application with themes and layouts.
 
 ---
 
@@ -33,14 +35,14 @@ Powerful tool for users to record and organize their thoughts, ideas, and daily 
   ```
 - Start the application:
   ```bash
-  npm start
+  npm run dev
   ```
 
 ---
 
 ### Tech Stack
 
-- Frontend: React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB / SQLite (as per requirement)
-- Styling: Tailwind CSS / Bootstrap / Shadcn
+- Frontend: Next.js
+- Backend: Node.js
+- Database: Supabase
+- Styling: Tailwind CSS / Shadcn
